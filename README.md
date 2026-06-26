@@ -24,7 +24,14 @@ Python-CodeHorizon/
 │       ├── C.type_function.py
 │       ├── D.input_function_01.py
 │       ├── E.input_function_02.py
-│       ├── F.input_function_03.py
+│       └── F.input_function_03.py
+│
+│   ├── 2.Operators/
+│       ├── A.Arithmetic_Operators.py
+│       ├── B.Assignment_Operators.py
+│       ├── C.Comparison_Operators.py
+│       ├── D.Logical_Operators.py
+│       └── E.Membership_Operator.py
 │
 └── README.md
 ```
