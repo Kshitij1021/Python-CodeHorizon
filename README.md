@@ -18,28 +18,16 @@ The purpose of this repository is to build a strong foundation in Python program
 Python-CodeHorizon/
 │
 ├── 01_Basics/
-│   ├── 1.Basic_Functions/
-│       ├── A.print_fuction.py
-│       ├── B.End_line_character.py
-│       ├── C.type_function.py
-│       ├── D.input_function_01.py
-│       ├── E.input_function_02.py
-│       └── F.input_function_03.py
+│   ├── 1.Basic_Functions
+│   ├── 2.Operators
+│   └── 3.Conditional_Statements
 │
-│   ├── 2.Operators/
-│       ├── A.Arithmetic_Operators.py
-│       ├── B.Assignment_Operators.py
-│       ├── C.Comparison_Operators.py
-│       ├── D.Logical_Operators.py
-│       └── E.Membership_Operator.py
+├── 02_Loops/
+│   └── Pattern_Printing
 │
-│   ├── 3.Conditional_Statements/
-│       ├── A.if_else_syntax.py
-│       ├── B.if_else_01.py
-│       ├── C.if_else_02.py
-│       ├── D.if_else_03.py
-│       ├── E.elif_syntax.py
-│       └── F.elif_01.py
+├── 03_Data_Structures/
+│   ├── 01_Lists
+│   ├── 02_Strings
 │
 └── README.md
 ```
